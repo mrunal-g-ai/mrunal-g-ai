@@ -1,23 +1,16 @@
- <div align="center">
-
+<div align="center">
   <img src="profile-banner.jpg" width="100%" alt="Mrunal — AI and Data Science Engineer"/>
-
 </div>
 
 <div align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=82B7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mrunal+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Building+Intelligent+Solutions;Learn.+Build.+Improve.+Repeat." alt="Animated introduction"/>
-
   <br/>
-
   <a href="https://github.com/mrunal-g-ai">
     <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-0B1435?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://www.linkedin.com/in/mrunal-gholap-361272349/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
 </div>
 
 ---
@@ -38,76 +31,99 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
 
 ## 🚀 Featured Projects
 
+```html
+## 🚀 Featured Projects
+
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
 
 <h3>🎸 VIBEX</h3>
 
 <strong>Smart AI Music Learning Platform</strong>
 
+        </div>
+
 <p>An AI-powered music-learning platform designed to explore guitar practice assistance through hand tracking, audio analysis, guided lessons, and progress tracking.</p>
 
 <strong>Technologies:</strong> Python, Computer Vision, Audio Analysis, FastAPI
 
-<a href="https://github.com/mrunal-g-ai/VIBEX-Music-Instrument-Learning-Platform">
-  <img src="VIBEX.png" alt="Explore VIBEX repository" width="100%"/>
-</a>
+        <div align="center">
+          <a href="https://github.com/mrunal-g-ai/VIBEX-Music-Instrument-Learning-Platform">
+            <img src="https://img.shields.io/badge/Explore_Project-View_Repository-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore VIBEX repository"/>
+          </a>
+        </div>
+      </td>
 
-</td>
-<td width="50%" valign="top">
+      <td width="50%" valign="top">
+        <div align="center">
 
 <h3>⚡ SmartGrid AI</h3>
 
 <strong>AI-Based Smart Energy Management</strong>
 
+        </div>
+
 <p>A project concept exploring how machine learning and data analysis can support energy-demand prediction and smarter grid-management decisions.</p>
 
 <strong>Technologies:</strong> Python, Machine Learning, Data Analytics
 
-<a href="https://github.com/mrunal-g-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore SmartGrid AI projects"/>
-</a>
+        <div align="center">
+          <a href="https://github.com/mrunal-g-ai?tab=repositories">
+            <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore SmartGrid AI projects"/>
+          </a>
+        </div>
+      </td>
+    </tr>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
 
 <h3>🌦️ PRALEYE</h3>
 
 <strong>Disaster Forecasting &amp; Response</strong>
 
+        </div>
+
 <p>A disaster-management project concept focused on disaster-risk information and response support using data analysis and public signals.</p>
 
 <strong>Technologies:</strong> AI/ML, Data Analysis, Visualization
 
-<a href="https://github.com/mrunal-g-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore PRALEYE projects"/>
-</a>
+        <div align="center">
+          <a href="https://github.com/mrunal-g-ai?tab=repositories">
+            <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore PRALEYE projects"/>
+          </a>
+        </div>
+      </td>
 
-</td>
-<td width="50%" valign="top">
+      <td width="50%" valign="top">
+        <div align="center">
 
 <h3>👁️ BirdEye</h3>
 
 <strong>Bird Species Detection &amp; Recognition</strong>
 
+        </div>
+
 <p>A computer-vision project exploring image-based bird identification using image processing and deep-learning techniques.</p>
 
 <strong>Technologies:</strong> Python, Computer Vision, Deep Learning
 
-<a href="https://github.com/mrunal-g-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-8067FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore BirdEye projects"/>
-</a>
-
-</td>
-</tr>
-</table>
+        <div align="center">
+          <a href="https://github.com/mrunal-g-ai?tab=repositories">
+            <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-8067FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore BirdEye projects"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+```
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -141,29 +157,24 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
 ## 🐍 Contribution Activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrunal-g-ai/mrunal-g-ai/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrunal-g-ai/mrunal-g-ai/output/github-snake.svg">
-  <img alt="GitHub contribution activity animation" src="https://raw.githubusercontent.com/mrunal-g-ai/mrunal-g-ai/output/github-snake.svg" width="100%">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrunal-g-ai/mrunal-g-ai/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrunal-g-ai/mrunal-g-ai/output/github-snake.svg">
+    <img alt="GitHub contribution activity animation" src="https://raw.githubusercontent.com/mrunal-g-ai/mrunal-g-ai/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071127,50:123A82,100:8067FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=EAF1FF&animation=fadeIn" width="100%" alt="Blue and purple animated footer"/>
 
 ### Keep learning. Keep building. Keep exploring. ✨
 
-  <a href="https://github.com/mrunal-g-ai">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-0B1435?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mrunal-gholap-361272349/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-
+<a href="https://github.com/mrunal-g-ai">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-0B1435?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects"/>
+</a>
+<a href="https://www.linkedin.com/in/mrunal-gholap-361272349/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 </div>
