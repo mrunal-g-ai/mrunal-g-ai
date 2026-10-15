@@ -31,6 +31,8 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
 
 ## 🚀 Featured Projects
 
+```html
+## 🚀 Featured Projects
 
 <div align="center">
   <table>
@@ -38,93 +40,89 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
       <td width="50%" valign="top">
         <div align="center">
 
-### 🎸 VIBEX
+<h3>🎸 VIBEX</h3>
 
-**Smart AI Music Learning Platform**
+<strong>Smart AI Music Learning Platform</strong>
 
-  </div>
+        </div>
 
-An AI-powered music-learning platform designed to explore guitar practice assistance through hand tracking, audio analysis, guided lessons, and progress tracking.
+<p>An AI-powered music-learning platform designed to explore guitar practice assistance through hand tracking, audio analysis, guided lessons, and progress tracking.</p>
 
-**Technologies:** Python, Computer Vision, Audio Analysis, FastAPI
+<strong>Technologies:</strong> Python, Computer Vision, Audio Analysis, FastAPI
 
-   <div align="center">
+        <div align="center">
           <a href="https://github.com/mrunal-g-ai/VIBEX-Music-Instrument-Learning-Platform">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repository-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore VIBEX repository"/>
           </a>
         </div>
+      </td>
 
-  </td>
       <td width="50%" valign="top">
         <div align="center">
 
-### ⚡ SmartGrid AI
+<h3>⚡ SmartGrid AI</h3>
 
-**AI-Based Smart Energy Management**
+<strong>AI-Based Smart Energy Management</strong>
 
-  </div>
+        </div>
 
-A project concept exploring how machine learning and data analysis can support energy-demand prediction and smarter grid-management decisions.
+<p>A project concept exploring how machine learning and data analysis can support energy-demand prediction and smarter grid-management decisions.</p>
 
-**Technologies:** Python, Machine Learning, Data Analytics
+<strong>Technologies:</strong> Python, Machine Learning, Data Analytics
 
-  <div align="center">
+        <div align="center">
           <a href="https://github.com/mrunal-g-ai?tab=repositories">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore SmartGrid AI projects"/>
           </a>
         </div>
-
-   </td>
+      </td>
     </tr>
-  </table>
-</div>
 
-
-<div align="center">
-  <table>
     <tr>
       <td width="50%" valign="top">
         <div align="center">
 
-### 🌦️ PRALEYE
+<h3>🌦️ PRALEYE</h3>
 
-**Disaster Forecasting & Response**
+<strong>Disaster Forecasting &amp; Response</strong>
+
         </div>
 
-A disaster-management project concept focused on disaster-risk information and response support using data analysis and public signals.
+<p>A disaster-management project concept focused on disaster-risk information and response support using data analysis and public signals.</p>
 
-**Technologies:** AI/ML, Data Analysis, Visualization
+<strong>Technologies:</strong> AI/ML, Data Analysis, Visualization
 
-  <div align="center">
+        <div align="center">
           <a href="https://github.com/mrunal-g-ai?tab=repositories">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore PRALEYE projects"/>
           </a>
         </div>
-    </td>
+      </td>
+
       <td width="50%" valign="top">
         <div align="center">
 
-### 👁️ BirdEye
+<h3>👁️ BirdEye</h3>
 
-**Bird Species Detection & Recognition**
+<strong>Bird Species Detection &amp; Recognition</strong>
 
-  </div>
+        </div>
 
-A computer-vision project exploring image-based bird identification using image processing and deep-learning techniques.
+<p>A computer-vision project exploring image-based bird identification using image processing and deep-learning techniques.</p>
 
-**Technologies:** Python, Computer Vision, Deep Learning
+<strong>Technologies:</strong> Python, Computer Vision, Deep Learning
 
-  <div align="center">
+        <div align="center">
           <a href="https://github.com/mrunal-g-ai?tab=repositories">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-8067FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore BirdEye projects"/>
           </a>
         </div>
-
-  </td>
+      </td>
     </tr>
   </table>
 </div>
 ```
+
 
 
 ## 🧰 Tech Stack
