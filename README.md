@@ -39,74 +39,72 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
 ## 🚀 Featured Projects
 
 <div align="center">
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🎸 VIBEX
+<h3>🎸 VIBEX</h3>
 
-**Smart AI Music Learning Platform**
+<strong>Smart AI Music Learning Platform</strong>
 
-An AI-powered music-learning platform designed to explore guitar practice assistance through hand tracking, audio analysis, guided lessons, and progress tracking.
+<p>An AI-powered music-learning platform designed to explore guitar practice assistance through hand tracking, audio analysis, guided lessons, and progress tracking.</p>
 
-**Technologies:** Python, Computer Vision, Audio Analysis, FastAPI
+<strong>Technologies:</strong> Python, Computer Vision, Audio Analysis, FastAPI
 
 <a href="https://github.com/mrunal-g-ai/VIBEX-Music-Instrument-Learning-Platform">
-  <img src="VIBEX.png" alt="Explore VIBEX repository"/>
+  <img src="VIBEX.png" alt="Explore VIBEX repository" width="100%"/>
 </a>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### ⚡ SmartGrid AI
+<h3>⚡ SmartGrid AI</h3>
 
-**AI-Based Smart Energy Management**
+<strong>AI-Based Smart Energy Management</strong>
 
-A project concept exploring how machine learning and data analysis can support energy-demand prediction and smarter grid-management decisions.
+<p>A project concept exploring how machine learning and data analysis can support energy-demand prediction and smarter grid-management decisions.</p>
 
-**Technologies:** Python, Machine Learning, Data Analytics
+<strong>Technologies:</strong> Python, Machine Learning, Data Analytics
 
 <a href="https://github.com/mrunal-g-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore SmartGrid AI projects"/>
+  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore SmartGrid AI projects"/>
 </a>
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌦️ PRALEYE
+<h3>🌦️ PRALEYE</h3>
 
-**Disaster Forecasting & Response**
+<strong>Disaster Forecasting &amp; Response</strong>
 
-A disaster-management project concept focused on disaster-risk information and response support using data analysis and public signals.
+<p>A disaster-management project concept focused on disaster-risk information and response support using data analysis and public signals.</p>
 
-**Technologies:** AI/ML, Data Analysis, Visualization
+<strong>Technologies:</strong> AI/ML, Data Analysis, Visualization
 
 <a href="https://github.com/mrunal-g-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore PRALEYE projects"/>
+  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore PRALEYE projects"/>
 </a>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 👁️ BirdEye
+<h3>👁️ BirdEye</h3>
 
-**Bird Species Detection & Recognition**
+<strong>Bird Species Detection &amp; Recognition</strong>
 
-A computer-vision project exploring image-based bird identification using image processing and deep-learning techniques.
+<p>A computer-vision project exploring image-based bird identification using image processing and deep-learning techniques.</p>
 
-**Technologies:** Python, Computer Vision, Deep Learning
+<strong>Technologies:</strong> Python, Computer Vision, Deep Learning
 
 <a href="https://github.com/mrunal-g-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-8067FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore BirdEye projects"/>
+  <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-8067FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore BirdEye projects"/>
 </a>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
 </div>
 
 ---
