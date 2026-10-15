@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile-banner.jpg" width="100%" alt="Mrunal — AI and Data Science Engineer"/>
+  <img src="profile-banner.jpg.png" width="100%" alt="Mrunal — AI and Data Science Engineer"/>
 </div>
 
 <div align="center">
@@ -29,9 +29,7 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
 
 ---
 
-## 🚀 Featured Projects
 
-```html
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -44,33 +42,33 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
 
 <strong>Smart AI Music Learning Platform</strong>
 
-        </div>
+   </div>
 
 <p>An AI-powered music-learning platform designed to explore guitar practice assistance through hand tracking, audio analysis, guided lessons, and progress tracking.</p>
 
 <strong>Technologies:</strong> Python, Computer Vision, Audio Analysis, FastAPI
 
-        <div align="center">
+   <div align="center">
           <a href="https://github.com/mrunal-g-ai/VIBEX-Music-Instrument-Learning-Platform">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repository-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore VIBEX repository"/>
           </a>
         </div>
       </td>
 
-      <td width="50%" valign="top">
+   <td width="50%" valign="top">
         <div align="center">
 
 <h3>⚡ SmartGrid AI</h3>
 
 <strong>AI-Based Smart Energy Management</strong>
 
-        </div>
+   </div>
 
 <p>A project concept exploring how machine learning and data analysis can support energy-demand prediction and smarter grid-management decisions.</p>
 
 <strong>Technologies:</strong> Python, Machine Learning, Data Analytics
 
-        <div align="center">
+   <div align="center">
           <a href="https://github.com/mrunal-g-ai?tab=repositories">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore SmartGrid AI projects"/>
           </a>
@@ -78,7 +76,7 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
       </td>
     </tr>
 
-    <tr>
+ <tr>
       <td width="50%" valign="top">
         <div align="center">
 
@@ -86,33 +84,33 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
 
 <strong>Disaster Forecasting &amp; Response</strong>
 
-        </div>
+   </div>
 
 <p>A disaster-management project concept focused on disaster-risk information and response support using data analysis and public signals.</p>
 
 <strong>Technologies:</strong> AI/ML, Data Analysis, Visualization
 
-        <div align="center">
+   <div align="center">
           <a href="https://github.com/mrunal-g-ai?tab=repositories">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-123A82?style=for-the-badge&logo=github&logoColor=white" alt="Explore PRALEYE projects"/>
           </a>
         </div>
       </td>
 
-      <td width="50%" valign="top">
+   <td width="50%" valign="top">
         <div align="center">
 
 <h3>👁️ BirdEye</h3>
 
 <strong>Bird Species Detection &amp; Recognition</strong>
 
-        </div>
+  </div>
 
 <p>A computer-vision project exploring image-based bird identification using image processing and deep-learning techniques.</p>
 
 <strong>Technologies:</strong> Python, Computer Vision, Deep Learning
 
-        <div align="center">
+  <div align="center">
           <a href="https://github.com/mrunal-g-ai?tab=repositories">
             <img src="https://img.shields.io/badge/Explore_Project-View_Repositories-8067FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore BirdEye projects"/>
           </a>
@@ -121,7 +119,7 @@ I enjoy exploring AI concepts, working with data, experimenting with computer vi
     </tr>
   </table>
 </div>
-```
+
 
 
 
